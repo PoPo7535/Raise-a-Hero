@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a6b60a06c6841c84fb63e8739cd00c54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8903957123649096864
+    second: cloak_purple_0
+  - first:
+      213: -7851568527005405021
+    second: cloak_purple_1
+  - first:
+      213: -9159323793471943085
+    second: cloak_purple_2
+  - first:
+      213: 1437225287948084062
+    second: cloak_purple_3
+  - first:
+      213: -2089984351810734757
+    second: cloak_purple_4
+  - first:
+      213: -3440702934612638241
+    second: cloak_purple_5
+  - first:
+      213: 7019470893412130638
+    second: cloak_purple_6
+  - first:
+      213: -918071460828805818
+    second: cloak_purple_7
+  - first:
+      213: -3951952687679101666
+    second: cloak_purple_8
+  - first:
+      213: 7798720644602835773
+    second: cloak_purple_9
+  - first:
+      213: 3657890779830399387
+    second: cloak_purple_10
+  - first:
+      213: -7603025014539327563
+    second: cloak_purple_11
+  - first:
+      213: 2239371984663331508
+    second: cloak_purple_12
+  - first:
+      213: -8049492025070407983
+    second: cloak_purple_13
+  - first:
+      213: -2355854225512315289
+    second: cloak_purple_14
+  - first:
+      213: 7695836435370373754
+    second: cloak_purple_15
+  - first:
+      213: -7821819364980741635
+    second: cloak_purple_16
+  - first:
+      213: -1614163442407932111
+    second: cloak_purple_17
+  - first:
+      213: 8792377279725123740
+    second: cloak_purple_18
+  - first:
+      213: -550739960493497069
+    second: cloak_purple_19
+  - first:
+      213: 4146083604242259675
+    second: cloak_purple_20
+  - first:
+      213: -6967186005277920248
+    second: cloak_purple_21
+  - first:
+      213: -2445066362392948622
+    second: cloak_purple_22
+  - first:
+      213: -1644953048661326468
+    second: cloak_purple_23
+  - first:
+      213: -8535188360191610537
+    second: cloak_purple_24
+  - first:
+      213: 6233204060979870240
+    second: cloak_purple_25
+  - first:
+      213: -3959591733058608644
+    second: cloak_purple_26
+  - first:
+      213: -4892235284998667346
+    second: cloak_purple_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloak_purple_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 160
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0633695db2ace6480800000000000000
+      internalID: -8903957123649096864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0b43a2600a90390800000000000000
+      internalID: -7851568527005405021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 160
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e425bb98b83e080800000000000000
+      internalID: -9159323793471943085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53aa5ed8cc02f310800000000000000
+      internalID: 1437225287948084062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 160
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5532342e42eef2e0800000000000000
+      internalID: -2089984351810734757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 160
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd505cc19ea2040d0800000000000000
+      internalID: -3440702934612638241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 160
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1609369b2a6160800000000000000
+      internalID: 7019470893412130638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64500eadeda5243f0800000000000000
+      internalID: -918071460828805818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15acb908f7d729c0800000000000000
+      internalID: -3951952687679101666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 128
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33be0c5b1f9a3c60800000000000000
+      internalID: 7798720644602835773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 128
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91b7fea84073c230800000000000000
+      internalID: 3657890779830399387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 128
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b769f52801ac7690800000000000000
+      internalID: -7603025014539327563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c1d194f8d31f10800000000000000
+      internalID: 2239371984663331508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dea657b6a57a4090800000000000000
+      internalID: -8049492025070407983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7664cb150135e4fd0800000000000000
+      internalID: -2355854225512315289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7272c3b67a1dca60800000000000000
+      internalID: 7695836435370373754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 64
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df92d05bab0537390800000000000000
+      internalID: -7821819364980741635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7addb6e65999e0800000000000000
+      internalID: -1614163442407932111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c983b394d8cc40a70800000000000000
+      internalID: 8792377279725123740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 64
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3152c238ce06b58f0800000000000000
+      internalID: -550739960493497069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 32
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde5ee73219d98930800000000000000
+      internalID: 4146083604242259675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 32
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804365fed359f4f90800000000000000
+      internalID: -6967186005277920248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 32
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270df411911611ed0800000000000000
+      internalID: -2445066362392948622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 32
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758856eae3fb29e0800000000000000
+      internalID: -1644953048661326468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751fab3686bec8980800000000000000
+      internalID: -8535188360191610537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a3a3b811ac08650800000000000000
+      internalID: 6233204060979870240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1e77f2c44bc09c0800000000000000
+      internalID: -3959591733058608644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloak_purple_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3c500bde94b1cb0800000000000000
+      internalID: -4892235284998667346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cloak_purple_0: -8903957123649096864
+      cloak_purple_1: -7851568527005405021
+      cloak_purple_10: 3657890779830399387
+      cloak_purple_11: -7603025014539327563
+      cloak_purple_12: 2239371984663331508
+      cloak_purple_13: -8049492025070407983
+      cloak_purple_14: -2355854225512315289
+      cloak_purple_15: 7695836435370373754
+      cloak_purple_16: -7821819364980741635
+      cloak_purple_17: -1614163442407932111
+      cloak_purple_18: 8792377279725123740
+      cloak_purple_19: -550739960493497069
+      cloak_purple_2: -9159323793471943085
+      cloak_purple_20: 4146083604242259675
+      cloak_purple_21: -6967186005277920248
+      cloak_purple_22: -2445066362392948622
+      cloak_purple_23: -1644953048661326468
+      cloak_purple_24: -8535188360191610537
+      cloak_purple_25: 6233204060979870240
+      cloak_purple_26: -3959591733058608644
+      cloak_purple_27: -4892235284998667346
+      cloak_purple_3: 1437225287948084062
+      cloak_purple_4: -2089984351810734757
+      cloak_purple_5: -3440702934612638241
+      cloak_purple_6: 7019470893412130638
+      cloak_purple_7: -918071460828805818
+      cloak_purple_8: -3951952687679101666
+      cloak_purple_9: 7798720644602835773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

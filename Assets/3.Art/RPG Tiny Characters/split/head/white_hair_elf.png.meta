@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9fcb9603eac5e0942973cad5d16f50ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8956768558459100133
+    second: white_hair_elf_0
+  - first:
+      213: -3765657374182489673
+    second: white_hair_elf_1
+  - first:
+      213: -751293135052918410
+    second: white_hair_elf_2
+  - first:
+      213: -1175656209535780584
+    second: white_hair_elf_3
+  - first:
+      213: -1925364764063590360
+    second: white_hair_elf_4
+  - first:
+      213: 5495498848744780274
+    second: white_hair_elf_5
+  - first:
+      213: 5339421710941706187
+    second: white_hair_elf_6
+  - first:
+      213: 7099225498425968312
+    second: white_hair_elf_7
+  - first:
+      213: -1273965092732125831
+    second: white_hair_elf_8
+  - first:
+      213: -8814882833893865867
+    second: white_hair_elf_9
+  - first:
+      213: -6427033526462845115
+    second: white_hair_elf_10
+  - first:
+      213: -2496980297006275227
+    second: white_hair_elf_11
+  - first:
+      213: -1541065254767367099
+    second: white_hair_elf_12
+  - first:
+      213: 359599329948889712
+    second: white_hair_elf_13
+  - first:
+      213: 7668423469772133034
+    second: white_hair_elf_14
+  - first:
+      213: 2098597259729988866
+    second: white_hair_elf_15
+  - first:
+      213: 5285801498689993742
+    second: white_hair_elf_16
+  - first:
+      213: -2409394289360018723
+    second: white_hair_elf_17
+  - first:
+      213: -2619017063784631093
+    second: white_hair_elf_18
+  - first:
+      213: -3100961640881476334
+    second: white_hair_elf_19
+  - first:
+      213: -6400694913680156223
+    second: white_hair_elf_20
+  - first:
+      213: -6849044738837938268
+    second: white_hair_elf_21
+  - first:
+      213: 1025303780566144525
+    second: white_hair_elf_22
+  - first:
+      213: -2347055143487293153
+    second: white_hair_elf_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white_hair_elf_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 168
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1468a9737a23b380800000000000000
+      internalID: -8956768558459100133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 167
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1c50ac192bdbbc0800000000000000
+      internalID: -3765657374182489673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 167
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6713bfacfded295f0800000000000000
+      internalID: -751293135052918410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 168
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81933a408ea3fafe0800000000000000
+      internalID: -1175656209535780584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 137
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8289fe6b2fab745e0800000000000000
+      internalID: -1925364764063590360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 136
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f13007261fe34c40800000000000000
+      internalID: 5495498848744780274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 136
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc750b2b1cf691a40800000000000000
+      internalID: 5339421710941706187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 137
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6431e3af3858260800000000000000
+      internalID: 7099225498425968312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 105
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d34777f77f15ee0800000000000000
+      internalID: -1273965092732125831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 104
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576411d04ce3ba580800000000000000
+      internalID: -8814882833893865867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 104
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe7af3f079ec6a0800000000000000
+      internalID: -6427033526462845115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 105
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565aac146a1f85dd0800000000000000
+      internalID: -2496980297006275227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 72
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ce4e1d0590d9ae0800000000000000
+      internalID: -1541065254767367099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07272137fad8df400800000000000000
+      internalID: 359599329948889712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 72
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa259074486bb6a60800000000000000
+      internalID: 7668423469772133034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 72
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d60d0c617bf1d10800000000000000
+      internalID: 2098597259729988866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cf4aa2570fa5940800000000000000
+      internalID: 5285801498689993742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 40
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd267dac8ac109ed0800000000000000
+      internalID: -2409394289360018723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc43e6c4bd167abd0800000000000000
+      internalID: -2619017063784631093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 40
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21da52531db27f4d0800000000000000
+      internalID: -3100961640881476334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d17a63e92c27a0800000000000000
+      internalID: -6400694913680156223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af7eca091e43f0a0800000000000000
+      internalID: -6849044738837938268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06928b2b5c9a3e00800000000000000
+      internalID: 1025303780566144525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_hair_elf_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 8
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19bf2048c59d6fd0800000000000000
+      internalID: -2347055143487293153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      white_hair_elf_0: -8956768558459100133
+      white_hair_elf_1: -3765657374182489673
+      white_hair_elf_10: -6427033526462845115
+      white_hair_elf_11: -2496980297006275227
+      white_hair_elf_12: -1541065254767367099
+      white_hair_elf_13: 359599329948889712
+      white_hair_elf_14: 7668423469772133034
+      white_hair_elf_15: 2098597259729988866
+      white_hair_elf_16: 5285801498689993742
+      white_hair_elf_17: -2409394289360018723
+      white_hair_elf_18: -2619017063784631093
+      white_hair_elf_19: -3100961640881476334
+      white_hair_elf_2: -751293135052918410
+      white_hair_elf_20: -6400694913680156223
+      white_hair_elf_21: -6849044738837938268
+      white_hair_elf_22: 1025303780566144525
+      white_hair_elf_23: -2347055143487293153
+      white_hair_elf_3: -1175656209535780584
+      white_hair_elf_4: -1925364764063590360
+      white_hair_elf_5: 5495498848744780274
+      white_hair_elf_6: 5339421710941706187
+      white_hair_elf_7: 7099225498425968312
+      white_hair_elf_8: -1273965092732125831
+      white_hair_elf_9: -8814882833893865867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

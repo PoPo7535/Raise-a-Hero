@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 09aa7137f99d40e46b24c2bf413baf73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8097443783076846913
+    second: purple_hair_girl_0
+  - first:
+      213: 8633943668604191254
+    second: purple_hair_girl_1
+  - first:
+      213: -6632365920548519333
+    second: purple_hair_girl_2
+  - first:
+      213: -1919914485338918810
+    second: purple_hair_girl_3
+  - first:
+      213: 3468715993793190934
+    second: purple_hair_girl_4
+  - first:
+      213: 8305188087515611877
+    second: purple_hair_girl_5
+  - first:
+      213: -7602432749178577927
+    second: purple_hair_girl_6
+  - first:
+      213: 2868318394011348743
+    second: purple_hair_girl_7
+  - first:
+      213: -8585772266619063889
+    second: purple_hair_girl_8
+  - first:
+      213: 7644866679948363211
+    second: purple_hair_girl_9
+  - first:
+      213: -8790590562479558775
+    second: purple_hair_girl_10
+  - first:
+      213: -4027832280357151783
+    second: purple_hair_girl_11
+  - first:
+      213: -3458634979086829779
+    second: purple_hair_girl_12
+  - first:
+      213: 5081337422107986886
+    second: purple_hair_girl_13
+  - first:
+      213: 7175385367141753098
+    second: purple_hair_girl_14
+  - first:
+      213: 3146290270531427782
+    second: purple_hair_girl_15
+  - first:
+      213: 7931558422019880431
+    second: purple_hair_girl_16
+  - first:
+      213: 6390540830541430204
+    second: purple_hair_girl_17
+  - first:
+      213: 4723487547926005083
+    second: purple_hair_girl_18
+  - first:
+      213: -8850471906545081332
+    second: purple_hair_girl_19
+  - first:
+      213: 8266386849504568677
+    second: purple_hair_girl_20
+  - first:
+      213: 8265743455013434907
+    second: purple_hair_girl_21
+  - first:
+      213: 799313188411847701
+    second: purple_hair_girl_22
+  - first:
+      213: 7838001431152452769
+    second: purple_hair_girl_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple_hair_girl_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 166
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9df6f736ef5070800000000000000
+      internalID: 8097443783076846913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 165
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612c2e1a50ee1d770800000000000000
+      internalID: 8633943668604191254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 165
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b528c45c55a15f3a0800000000000000
+      internalID: -6632365920548519333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 166
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603f3e92f71b55e0800000000000000
+      internalID: -1919914485338918810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c52cc71da532030800000000000000
+      internalID: 3468715993793190934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 132
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e28c251094f14370800000000000000
+      internalID: 8305188087515611877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 132
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb1a6ca1bbbe7690800000000000000
+      internalID: -7602432749178577927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 133
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe3c1e1605ec720800000000000000
+      internalID: 2868318394011348743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 101
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa135c5ec9539d880800000000000000
+      internalID: -8585772266619063889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5ca8dbdb5081a60800000000000000
+      internalID: 7644866679948363211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f218d357c810680800000000000000
+      internalID: -8790590562479558775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 101
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd572a1e34a18c0800000000000000
+      internalID: -4027832280357151783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 70
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27f9c7afc57000d0800000000000000
+      internalID: -3458634979086829779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 68
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb45ac9679848640800000000000000
+      internalID: 5081337422107986886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01250f79f6149360800000000000000
+      internalID: 7175385367141753098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd1b4fc45ed9ab20800000000000000
+      internalID: 3146290270531427782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 37
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5b0c39c5e821e60800000000000000
+      internalID: 7931558422019880431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd3d0fd603cfa850800000000000000
+      internalID: 6390540830541430204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 37
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b554c1316e23d8140800000000000000
+      internalID: 4723487547926005083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 36
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046ecb51becc2580800000000000000
+      internalID: -8850471906545081332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5652eacda0b18b270800000000000000
+      internalID: 8266386849504568677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16f598e0e1d5b270800000000000000
+      internalID: 8265743455013434907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b2932c1bb71b00800000000000000
+      internalID: 799313188411847701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_hair_girl_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a468dc26cc26cc60800000000000000
+      internalID: 7838001431152452769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      purple_hair_girl_0: 8097443783076846913
+      purple_hair_girl_1: 8633943668604191254
+      purple_hair_girl_10: -8790590562479558775
+      purple_hair_girl_11: -4027832280357151783
+      purple_hair_girl_12: -3458634979086829779
+      purple_hair_girl_13: 5081337422107986886
+      purple_hair_girl_14: 7175385367141753098
+      purple_hair_girl_15: 3146290270531427782
+      purple_hair_girl_16: 7931558422019880431
+      purple_hair_girl_17: 6390540830541430204
+      purple_hair_girl_18: 4723487547926005083
+      purple_hair_girl_19: -8850471906545081332
+      purple_hair_girl_2: -6632365920548519333
+      purple_hair_girl_20: 8266386849504568677
+      purple_hair_girl_21: 8265743455013434907
+      purple_hair_girl_22: 799313188411847701
+      purple_hair_girl_23: 7838001431152452769
+      purple_hair_girl_3: -1919914485338918810
+      purple_hair_girl_4: 3468715993793190934
+      purple_hair_girl_5: 8305188087515611877
+      purple_hair_girl_6: -7602432749178577927
+      purple_hair_girl_7: 2868318394011348743
+      purple_hair_girl_8: -8585772266619063889
+      purple_hair_girl_9: 7644866679948363211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
